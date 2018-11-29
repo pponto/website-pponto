@@ -7,7 +7,7 @@ body {
 a {
   color: white;
   text-decoration: none;
-  padding: 10px 20px;
+  padding: 10px 0px 10px 20px;
 }
 
 a:hover {
@@ -15,7 +15,7 @@ a:hover {
 }
 
 a:first-child {
-  padding: 0px 20px 10px;
+  padding: 0px 0px 10px 20px;
   font-weight: 500;
   border-left: 1px solid white;
 }
